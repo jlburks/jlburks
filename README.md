@@ -1,0 +1,4 @@
+- 👋 Hi, I’m my name is Jaren Burks
+- 👀 I’m interested in Sports and Anime
+- 🌱 I’m currently learning JavaScript
+- 📫 Reach me through email => jlburks1500@gmail.com
